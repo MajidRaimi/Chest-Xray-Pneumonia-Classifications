@@ -108,5 +108,8 @@ new_model = load_model('models/main_model.keras')
 - Abdulrahman Sami Al-Juhani
 - Mashari Adel Al-Jiban
 
+## License 📄
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 Feel free to customize and expand upon this project. Happy coding! 🚀🤖
