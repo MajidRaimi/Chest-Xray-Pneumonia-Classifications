@@ -119,11 +119,8 @@ new_model = load_model('models/main_model.keras')
 - **Storage:** 512 GB SSD
 - **Operating System:** macOS Sonoma 14.1.1
 
-
 ## License 📝
-You can fine the license for this project [here](./LICENSE).
-## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
 
 Feel free to customize and expand upon this project. Happy coding! 🚀🤖
