@@ -1,7 +1,8 @@
 # Chest X-Ray Image Classification 🌐🔍
 
-Welcome to the Chest X-Ray Image Classification project! This project focuses on classifying chest X-ray images into two categories: "Normal" and "Pneumonia" using a Convolutional Neural Network (CNN) model.
+Welcome to the Chest X-Ray Image Classification project! This endeavor represents the culmination of our exploration into the realm of Deep Learning within the context of the **ARTI 502** course. As a final project for this course, our objective is to employ a Convolutional Neural Network (CNN) model to effectively classify chest X-ray images into two distinct categories: "Normal" and "Pneumonia." This undertaking not only showcases our understanding of deep learning principles but also demonstrates the practical application of these concepts in the domain of medical image analysis.
 
+Join us on this journey as we leverage advanced techniques to enhance diagnostic capabilities, contributing to the intersection of artificial intelligence and healthcare. Together, let's unravel the potential of deep learning in accurately identifying health conditions through the analysis of chest X-ray images.
 ## Project Structure 📁
 
 ```
@@ -19,6 +20,10 @@ Welcome to the Chest X-Ray Image Classification project! This project focuses on
 ```
 
 The `data` directory contains two subdirectories, `normal` and `pneumonia`, each containing a large number of chest X-ray images for training and testing the model.
+
+
+## Report 📄
+You can find the final report for this project [here](./report.md).
 
 ## Model Architecture 🧠
 
@@ -108,5 +113,14 @@ new_model = load_model('models/main_model.keras')
 - Abdulrahman Sami Al-Juhani
 - Mashari Adel Al-Jiban
 
+## Hardware Specifications 💻
+- **Processor:** Apple M2 chip
+- **Memory:** 16 GB RAM
+- **Storage:** 512 GB SSD
+- **Operating System:** macOS Sonoma 14.1.1
+
+
+## License 📝
+You can fine the license for this project [here](./LICENSE).
 
 Feel free to customize and expand upon this project. Happy coding! 🚀🤖
