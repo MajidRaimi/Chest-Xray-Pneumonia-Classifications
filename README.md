@@ -104,14 +104,14 @@ Load the saved model:
 new_model = load_model('models/main_model.keras')
 ```
 
-## Contributors 👥
+## Contributors (Group 4) 👥
 
-- Majid Saleh Al-Raimi
+- **Majid Saleh Al-Raimi**
+- **Rashid Sami Al-Binali**
+- **Mashari Adel Al-Jiban**
 - Alwaleed Ahmad Al-Qurashi
 - Mahmoud Sahal Noor
-- Rashid Sami Al-Binali
 - Abdulrahman Sami Al-Juhani
-- Mashari Adel Al-Jiban
 
 ## Hardware Specifications 💻
 - **Processor:** Apple M2 chip
